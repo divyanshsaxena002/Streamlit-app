@@ -84,13 +84,13 @@ pip install streamlit pandas matplotlib seaborn scikit-learn shap
 ## Screenshots
 
 ### Data Exploration
-![Data Exploration Screenshot](images/data_exploration.png)
+![Data Exploration Screenshot](https://github.com/divyanshsaxena002/Streamlit-app/blob/main/image/1.png)
 
 ### Model Training
-![Model Training Screenshot](images/model_training.png)
+![Model Training Screenshot]([images/model_training.png](https://github.com/divyanshsaxena002/Streamlit-app/blob/main/image/3.png))
 
 ### Shapley Value Visualizations
-![Shapley Value Screenshot](images/shapley_values.png)
+![Shapley Value Screenshot](https://github.com/divyanshsaxena002/Streamlit-app/blob/main/image/4.png)
 
 ## Troubleshooting
 - Ensure you have the correct Python version (>= 3.7).
